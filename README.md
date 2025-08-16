@@ -9,9 +9,9 @@ A simple, real-time Flutter chat application powered by Supabase. This project d
 -----
 
 ## 📸 Screenshots
-
-
-
+| Login Screen | Home Screen | Chat Screen | GroupChat Screen | GroupChat Room |
+| :----------: | :-----------: | :-----------: | :----------------: | :----------------: |
+| <img src="https://github.com/MeetMoliya06/supachat/blob/main/assest/login.jpeg?raw=true" width="220" alt="Login Screen"> | <img src="https://github.com/MeetMoliya06/supachat/blob/main/assest/home.jpeg?raw=true" width="220" alt="Home Screen"> | <img src="https://github.com/MeetMoliya06/supachat/blob/main/assest/chat_room.jpeg?raw=true" width="220" alt="Chat Screen"> | <img src="https://github.com/MeetMoliya06/supachat/blob/main/assest/gc.jpeg?raw=true" width="220" alt="Group Chat Screen"> | <img src="https://github.com/MeetMoliya06/supachat/blob/main/assest/gc_room.jpeg?raw=true" width="220" alt="GroupChat Room Screen"> |
 -----
 
 ## 🚀 Features
